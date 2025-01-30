@@ -14,7 +14,8 @@
         <group key="scouting_operators">
             <operator>
                 <key>pull_matches</key>
-                <class>com.rapidminer.extension.operator.scouting.PullMatchesOperator</class>
+                <class>com.rapidminer.extension.operator.scouting.PullMatches</class>
+                <icon>icon.png</icon>
             </operator>
         </group>
     </group>
