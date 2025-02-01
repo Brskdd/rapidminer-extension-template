@@ -7,7 +7,10 @@
       <name>Example Operator Name</name>
     </operator>
     -->
-
+    <operator>
+      <key>pull_matches</key>
+      <name>Pull Matches</name>
+    </operator>
     <!-- This is how group keys are translated: -->
     <!--
     <group>
@@ -15,5 +18,9 @@
       <name>Example Group</name>
     </group>
     -->
+    <group>
+      <key>scouting_operators</key>
+      <name>Scouting Operators</name>
+    </group>
 
 </operatorHelp>
